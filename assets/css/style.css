@@ -19,11 +19,11 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* h1 .seo header styling */
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* header nav bar styling */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +31,25 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* header nav unordered list styling */
 header nav ul {
     list-style-type: none;
 }
-
+/* header nav unordered listed items */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* href styling */ 
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraph styling */
 p {
     font-size: 16px;
 }
-
+/* hero syling */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* search engine optimization and social media marketing image styling */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* online reputation management image styling */ 
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* main content styling */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* aside benefits styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* section images styling */
 .section-images {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +119,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
